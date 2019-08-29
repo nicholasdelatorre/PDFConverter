@@ -1,0 +1,145 @@
+/*==========================================================================================
+                                     DEFAULT VALUES:
+Font Family:            Lato
+Seashell:               #F1F1F1                     (Aside, Background)   
+Lightning Yellow:       #FFC011                     (Term header)    
+Dove Gray:              #64707B                     (Titles)
+White:                  #FFF                        (Text With Black Backgrounds)
+Black                   #000                        
+==========================================================================================*/
+
+
+/*==========================================================================================
+                                 Default
+==========================================================================================*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Lato';
+    font-style: normal;
+    margin-bottom: 0 !important;
+}
+
+.default-background-color {
+    background-color: #F1F1F1;
+}
+
+.second-background {
+    background-color: #E8E8E8;
+}
+
+.third-background {
+    background-color: #D9D9D9;
+}
+
+table tr th {
+    background-color: #FFC011;
+}
+
+
+/*==========================================================================================
+                                     Term
+==========================================================================================*/
+
+#term-th {
+    background-color: #FFC011;
+    height: 90px;
+    padding-top: 30px;
+}
+
+#term-head-div {
+    padding-top: 65px;
+    max-width: 100%;
+}
+
+#term-row-div {
+    margin-left: 3rem !important;
+    margin-right: 3rem !important;
+}
+
+#term-tr {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/*==========================================================================================
+                                 Payment Datails
+==========================================================================================*/
+
+.payment-detail {
+    height: 90px !important;
+}
+
+#voucher-logo {
+    background-color: #000;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#voucher-logo h3 {
+    font-weight: bold;
+    padding-top: 28px;
+    color: #fff;
+}
+
+.payment-detail-list {
+    padding-top: 10px;
+}
+
+#payment-div {
+    padding-top: 25px;
+}
+
+
+/*==========================================================================================
+                                 Service Datails
+==========================================================================================*/
+
+#service-detail-header-div {
+    padding-top: 25px;
+}
+
+.service-detail-header {
+    height: 40px !important;
+}
+
+.service-label p {
+    font-weight: bold;
+}
+
+.service-column {
+    padding-left: 20px !important;
+}
+
+
+/*==========================================================================================
+                                 Driver Datails
+==========================================================================================*/
+
+#driver-image {
+    width: 150px !important;
+    height: 170px !important;
+}

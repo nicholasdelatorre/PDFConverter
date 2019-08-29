@@ -1,0 +1,58 @@
+NuGet Package Usage Instructions
+=======================================================
+
+The recommended mode to use HiQPdf library in your .NET Core Applications is to reference the NuGet package HiQPdf_NetCore.11.0.0.nupkg
+in your Visual Studio projects. The NuGet package is accessible at:
+
+
+
+When you reference the NuGet package in your project all the the dependant packages are automatically added to your project. The ASP.NET and 
+Console demo applications from Samples folder are using the HiQPdf for .NET Core NuGet package.
+
+Assembly Usage Instructions
+==================================================
+
+If you manually reference the HiQPdf Assembly for .NET Core from Assemblies folder in your applications instead of using the NuGet package 
+which is the recommended usage mode, then you also have to reference the following NuGet dependant packages in your .NET Core application:
+
+System.Drawing.Common
+System.Security.Principal.Windows
+System.Text.Encoding.CodePages
+
+Finally, after your .NET Core project was built, you have to manually copy the hiqpdf.dep and HiQPdf.rda in the Bin folder
+of your application near the HiQPdf.NetCore.dll assembly because these files are required at runtime.
+
+
+Check Extracted Files
+=====================
+
+If you encounter difficulties in viewing the documentation or in using the software, 
+please first check that the following files were not blocked by Windows when the ZIP 
+archive was extracted using the Windows Explorer built-in ZIP extractor. Windows Vista and later
+might block the files extracted from archives downloaded from Internet. If you extracted the files
+with other programs than Windows Explorer built-in ZIP extractor, then this issue will not occur. 
+
+HiQPdf.NetCore.dll
+HiQPdf.NetCore.xml
+HiQPdf.dep
+HiQPdf.rda
+Documentation.chm
+
+To check whether a file has been blocked, right click on the file in Windows Explorer 
+and select Properties. If there is an Unblock button in file properties then press that 
+button to unblock the file.
+
+Software Uninstallation
+=======================
+
+Because all the files installed on your computer are those that you extracted from the Zip archive, 
+the uninstallation process is very simple and consists in deleting the folder where you extracted 
+the files. After doing this the uninstallation is complete and no files or configuration changes 
+related to HiQPdf software will remain on your computer.
+
+Contact Us
+==========
+
+If you have any questions about the HiQPdf software please don't hesitate to contact us.  
+The support and sales email addresses can be found on the contact page of the 
+HiQPdf website: http://www.hiqpdf.com/

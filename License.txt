@@ -1,0 +1,138 @@
+Software License Agreement
+==========================
+
+Please read this end user license agreement (the “AGREEMENT”) carefully before attempting to download or use 
+the computer software and the associated documentation or other materials made available through this web site 
+(the "SOFTWARE"). This agreement constitutes a legally binding agreement between you or the company which you 
+represent and are authorized to bind (the "Licensee", "Customer" or "You"), and HiQPdf Software (“Licensor” or “Owner”). 
+By purchasing, downloading, installing or otherwise using the SOFTWARE made available by HiQPdf Software through 
+this web site (hiqpdf.com), you acknowledge that you have read this agreement, that you understand it, that you agree 
+to be bound by its terms and conditions, and that if you are entering into this agreement on behalf of a company, 
+you have the power and authority to bind that company. 
+
+1. Ownership and License Grant
+==============================
+
+This is a license agreement and not an agreement for sale. HiQPdf Software continues to own the copy of the SOFTWARE. 
+Your rights to the SOFTWARE are specified in this AGREEMENT, and HiQPdf Software retains all rights not expressly 
+granted to you in this AGREEMENT. HiQPdf Software hereby grants to You the following limited, non-transferable, perpetual, 
+worldwide, royalty-free, non-exclusive licenses to use the SOFTWARE solely as specified in this AGREEMENT. 
+
+The SOFTWARE is licensed per developer seat. Each developer seat gives to only one programmer the right to work on an 
+unlimited number of applications using the SOFTWARE. There are three types of licenses based on the number of developer 
+seats : Developer License, Team License and Enterprise License. A special type of license is the Startup License giving 
+to only one programmer the right to work on a single application using the SOFTWARE unlike the other types of licenses 
+which allow an unlimited number of applications. 
+
+There are no additional run time or deployment royalties charged for using the SOFTWARE in Your applications. 
+The license is perpetual and includes the software upgrades and the technical support for the first year. 
+
+Startup License
+---------------
+
+The Startup License gives to only one programmer the right to work on a single application using the SOFTWARE. All the 
+other types of licenses allow an unlimited number of applications. This type of license entitles You to integrate the SOFTWARE 
+in only one application owned by You. There are no additional run time or deployment costs charged for using the SOFTWARE in 
+Your application. The license is perpetual and includes the SOFTWARE updates and the Developer Technical Support for the first 
+year which guarantees a 48 hour response time from HiQPdf Software support team.
+
+Developer License
+-----------------
+
+The Developer License is granted to a single developer seat. Each developer seat gives to only one programmer the right to 
+work on an unlimited number of applications using the SOFTWARE. This type of license entitles You to integrate the SOFTWARE 
+only in applications owned by You. There are no additional run time or deployment royalties charged for using the SOFTWARE 
+in Your applications. The license is perpetual and includes the SOFTWARE updates and the Developer Technical Support for the 
+first year which guarantees a 48 hour response time from HiQPdf Software support team.
+
+Team License
+------------
+
+The Team License is granted to 5 developer seats. Each developer seat gives to only one programmer the right to work on an 
+unlimited number of applications using the SOFTWARE. This type of license entitles you to integrate the SOFTWARE only in 
+applications owned by You. There are no additional run time or deployment royalties charged for using the SOFTWARE in Your applications. 
+The license is perpetual and includes the SOFTWARE updates and the Developer Technical Support for the first year which guarantees 
+a 48 hour response time from HiQPdf Software support team.
+
+Enterprise License
+------------------ 
+
+An Enterprise License is granted to an unlimited number of developer seats. Each developer seat gives to only one programmer 
+the right to work on an unlimited number of applications using the SOFTWARE. This license entitles you to integrate the SOFTWARE 
+only in applications owned by You. There are no additional run time or deployment royalties charged for using the SOFTWARE in Your applications. 
+
+The Enterprise License is perpetual and includes the SOFTWARE updates and the Enterprise Technical Support for the first year. 
+The Enterprise Technical Support is the highest level of support HiQPdf Software offers and it guarantees, in addition to Developer Technical Support 
+available for the other types of licenses, a 24 hour response time from HiQPdf Software support team and instant access to the development builds 
+and to the hotfixes available between SOFTWARE public releases to help You resolve any issue in the shortest time.
+
+
+2. License Delivery
+===================
+
+A license is delivered to You as a Serial Number to be set in Your application source code. The SOFTWARE package can be downloaded 
+from this web site. When You distribute an application using the SOFTWARE to third parties, You must ensure that the Serial Number 
+is not directly accessible for the third parties and must inform that the usage of the SOFTWARE in third party applications is not allowed. 
+
+3. Software Updates
+=================== 
+
+A purchased license is perpetual and it never expires but the SOFTWARE maintenance is covered by the initial license price only for the 
+first year from purchase. After the first year You may renew the maintenance for one more year at a discounted price of 50% of the initial price. 
+
+4. Prohibited Uses
+==================
+
+You may not, without the prior written permission of HiQPdf Software: 
+
+4.1. Use the SOFTWARE in a way that would result in development of software products that are directly or indirectly competitive with 
+the SOFTWARE or other HiQPdf Software products published on this web site.
+
+4.2. Disassemble, decompile or “unlock”, decode or otherwise reverse translate or engineer, or attempt in any manner to reconstruct 
+or discover any source code or underlying algorithms of SOFTWARE provided in object code form only.
+
+4.3. Use, copy, modify, or merge copies of the SOFTWARE and any accompanying documents except as permitted in this AGREEMENT.
+
+4.4 Transfer, rent, lease, or sublicense the SOFTWARE. 
+
+5. Limited Warranty
+===================
+
+HiQPdf Software warrants that the SOFTWARE will perform substantially in accordance with the accompanying written materials for a period of 30 days 
+after the date on which You purchase the license for the SOFTWARE. HiQPdf Software does not warrant the use of the SOFTWARE will be uninterrupted 
+or error free at all times and in all circumstances, nor that program errors will be corrected. This limited warranty shall not apply to any error 
+or failure resulting from machine error, Your failure to follow operating instructions, negligence or accident.
+
+In the event of a breach of warranty, Your sole and exclusive remedy and HiQPdf Software sole and exclusive obligation, is repair of all or any 
+portion of the SOFTWARE. If such remedy fails, Your sole remedy and HiQPdf Software maximum liability shall be a refund of the paid purchase price 
+for the defective SOFTWARE only. This limited warranty is only valid if HiQPdf Software receives a written notice of breach of warranty no later than 
+30 days after the warranty period expires. 
+
+6. Limitation of Liability
+==========================
+
+To the maximum extent permitted by applicable law, in no event will HiQPdf Software be liable for any indirect, special, incidental, or consequential 
+damages arising out of the use of or inability to use the SOFTWARE, including, without limitation, damages for loss of goodwill, work stoppage, 
+computer failure or malfunction, or any and all other commercial damages or losses, even if advised of the possibility thereof, and regardless of the legal 
+or equitable theory upon which the claim is based.
+
+In any case, HiQPdf Software entire liability under any provision of this agreement shall not exceed in the aggregate the sum of the license fees You paid 
+to HiQPdf Software for the SOFTWARE giving rise to such damages. HiQPdf Software is not responsible for any liability arising out of content provided by 
+You or a third party that is accessed through the software and/or any material linked through such content. Any data included in the SOFTWARE upon shipment 
+from HiQPdf Software is for testing use only and HiQPdf Software hereby disclaims any and all liability arising therefrom. 
+
+7. Termination
+==============
+
+This AGREEMENT and your right to use the SOFTWARE will terminate immediately without notice from HiQPdf Software if you fail to comply with the terms and 
+conditions of this AGREEMENT. Upon termination, you agree to destroy the SOFTWARE, including all accompanying documents and copies. This is in addition to 
+and not in lieu of any criminal, civil or other remedies available to HiQPdf Software. 
+
+8. Confidentiality
+==================
+
+Except as otherwise provided herein, each party expressly undertakes to retain in confidence all information transmitted or disclosed to it that the disclosing 
+party has identified as being proprietary and/or confidential or that, by the nature of the circumstances surrounding the disclosure, ought in good faith to be 
+treated as proprietary and/or confidential, and expressly undertakes to make no use of such information except under the terms and during the existence of 
+this AGREEMENT. Each party obligations under this section shall apply at all times during the term of this AGREEMENT and shall survive termination of this AGREEMENT.
+

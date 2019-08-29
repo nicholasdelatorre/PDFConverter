@@ -1,0 +1,41 @@
+@media print {
+    #voucher-logo {
+        background-color: #000 !important;
+        -webkit-print-color-adjust: exact;
+    }
+    #voucher-logo h3 {
+        font-size: 21px !important;
+        padding-top: 32px !important;
+    }
+    #term-body {
+        background-color: #F1F1F1 !important;
+        -webkit-print-color-adjust: exact;
+    }
+    .default-background-color {
+        background-color: #F1F1F1 !important;
+        -webkit-print-color-adjust: exact;
+    }
+    .second-background {
+        background-color: #E8E8E8 !important;
+        -webkit-print-color-adjust: exact;
+    }
+    .third-background {
+        background-color: #D9D9D9 !important;
+        -webkit-print-color-adjust: exact;
+    }
+    table tr th {
+        background-color: #FFC011 !important;
+        -webkit-print-color-adjust: exact;
+    }
+    table tr td {
+        background-color: #F1F1F1 !important;
+        -webkit-print-color-adjust: exact;
+    }
+    #term-th {
+        background-color: #FFC011 !important;
+        -webkit-print-color-adjust: exact;
+    }
+    ul {
+        padding-left: 30px;
+    }
+}
